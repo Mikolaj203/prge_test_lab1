@@ -1,3 +1,7 @@
 users: list = [
-    {"name": "Mikolaj"}
+    {"name": "Mikołaj"},
+    {"name": "Natalia"},
+    {"name": "Bartosz K"},
+    {"name": "Bartosz W"},
+    {"name": "Emil"}
 ]
